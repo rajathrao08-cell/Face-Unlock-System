@@ -1,0 +1,1 @@
+Dataset folder for storing captured face images.
